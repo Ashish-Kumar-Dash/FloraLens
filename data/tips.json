@@ -1,0 +1,412 @@
+{
+  "pink primrose": {
+    "tips": ["Prefers full sun", "Water moderately", "Tolerates poor soil"],
+    "fact": "Pink primroses attract moths and butterflies."
+  },
+  "hard-leaved pocket orchid": {
+    "tips": ["Bright indirect light", "Keep humidity high", "Use orchid-specific potting mix"],
+    "fact": "This orchid supports delicate micro-ecosystems in rainforests."
+  },
+  "canterbury bells": {
+    "tips": ["Plant in cool weather", "Moist, well-drained soil", "Stake tall stems"],
+    "fact": "Canterbury bells attract hummingbirds and bees."
+  },
+  "sweet pea": {
+    "tips": ["Requires trellis for climbing", "Deadhead to prolong blooming", "Full sun"],
+    "fact": "Sweet peas are fragrant and attract pollinators."
+  },
+  "english marigold": {
+    "tips": ["Full sun", "Pinch spent blooms", "Tolerates drought"],
+    "fact": "Repels pests and attracts ladybugs."
+  },
+  "tiger lily": {
+    "tips": ["Plant in early spring", "Full sun or partial shade", "Well-drained soil"],
+    "fact": "Tiger lilies are pollinated by butterflies."
+  },
+  "moon orchid": {
+    "tips": ["Bright, indirect light", "Water weekly", "High humidity"],
+    "fact": "Moon orchids are epiphytes and attract bees."
+  },
+  "bird of paradise": {
+    "tips": ["Full sun", "Keep soil moist", "Use rich compost"],
+    "fact": "Supports tropical pollinators and birds."
+  },
+  "monkshood": {
+    "tips": ["Partial shade", "Moist soil", "Handle with gloves (toxic)"],
+    "fact": "Monkshood contains alkaloids used in traditional medicine."
+  },
+  "globe thistle": {
+    "tips": ["Dry soil", "Full sun", "Deadhead to reduce spread"],
+    "fact": "Globe thistles attract bees and are deer-resistant."
+  },
+  "snapdragon": {
+    "tips": ["Cool season bloom", "Pinch for bushy growth", "Full sun"],
+    "fact": "Snapdragons support bumblebee populations."
+  },
+  "colt's foot": {
+    "tips": ["Moist soil", "Partial sun", "Trim runners"],
+    "fact": "One of the earliest spring nectar sources."
+  },
+  "king protea": {
+    "tips": ["Well-drained soil", "Full sun", "Minimal fertilizer"],
+    "fact": "Supports unique bird-pollination systems."
+  },
+  "spear thistle": {
+    "tips": ["Avoid overwatering", "Tolerates poor soil", "Full sun"],
+    "fact": "Thistles are crucial for pollinators like bees."
+  },
+  "yellow iris": {
+    "tips": ["Moist or boggy areas", "Full sun", "Plant in clumps"],
+    "fact": "Iris plants stabilize wetland soil and attract dragonflies."
+  },
+  "globe-flower": {
+    "tips": ["Cool climate", "Moist soil", "Partial shade"],
+    "fact": "Attracts pollinating flies in alpine habitats."
+  },
+  "purple coneflower": {
+    "tips": ["Drought tolerant", "Deadhead for blooms", "Full sun"],
+    "fact": "A medicinal plant loved by bees and butterflies."
+  },
+  "peruvian lily": {
+    "tips": ["Plant rhizomes in spring", "Fertilize monthly", "Part shade"],
+    "fact": "Long-lasting blooms support nectar-feeding insects."
+  },
+  "balloon flower": {
+    "tips": ["Well-drained soil", "Full sun", "Pinch back stems"],
+    "fact": "Balloon flowers are resistant to most pests."
+  },
+  "giant white arum lily": {
+    "tips": ["Prefers wet areas", "Full sun to partial shade", "Mulch base"],
+    "fact": "Helps filter water and attracts beetles."
+  },
+    "fire lily": {
+    "tips": ["Well-drained soil", "Full sunlight", "Avoid overwatering"],
+    "fact": "Fire lilies bloom after wildfires, aiding in ecological recovery."
+  },
+  "pincushion flower": {
+    "tips": ["Full sun", "Deadhead regularly", "Moderate watering"],
+    "fact": "Attracts butterflies and supports small pollinators."
+  },
+  "fritillary": {
+    "tips": ["Cool, moist soil", "Partial shade", "Plant bulbs in autumn"],
+    "fact": "Fritillaries are important to butterflies and moths."
+  },
+  "red ginger": {
+    "tips": ["Warm, humid conditions", "Filtered sunlight", "Keep soil moist"],
+    "fact": "Provides shelter and nectar for tropical pollinators."
+  },
+  "grape hyacinth": {
+    "tips": ["Plant in fall", "Full sun", "Allow leaves to die back naturally"],
+    "fact": "Early bloomers that feed emerging bees."
+  },
+  "corn poppy": {
+    "tips": ["Full sun", "Tolerates poor soil", "Reseed for blooms"],
+    "fact": "Rich in nectar and supports solitary bees."
+  },
+  "prince of wales feathers": {
+    "tips": ["Full sun", "Well-drained soil", "Pinch for bushier growth"],
+    "fact": "Adds height and texture to pollinator gardens."
+  },
+  "stemless gentian": {
+    "tips": ["Acidic soil", "Moisture-retentive", "Cool temperatures"],
+    "fact": "Supports alpine insect populations."
+  },
+  "artichoke": {
+    "tips": ["Full sun", "Rich soil", "Harvest before blooming"],
+    "fact": "Once bloomed, it attracts bees and butterflies."
+  },
+  "sweet william": {
+    "tips": ["Full sun", "Deadhead regularly", "Water evenly"],
+    "fact": "Sweet scent attracts pollinators like hoverflies."
+  },
+  "carnation": {
+    "tips": ["Full sun", "Water at the base", "Fertilize monthly"],
+    "fact": "Used in traditional ceremonies; attracts butterflies."
+  },
+  "garden phlox": {
+    "tips": ["Moist soil", "Deadhead to extend blooms", "Full to partial sun"],
+    "fact": "A favorite nectar source for butterflies."
+  },
+  "love in the mist": {
+    "tips": ["Direct sow in spring", "Thin seedlings", "Sun or light shade"],
+    "fact": "Its airy structure shelters small insects."
+  },
+  "mexican aster": {
+    "tips": ["Full sun", "Tolerant of poor soil", "Water during dry spells"],
+    "fact": "Excellent pollinator attractor during late summer."
+  },
+  "alpine sea holly": {
+    "tips": ["Gravelly soil", "Full sun", "Drought tolerant"],
+    "fact": "Provides nectar for bees in alpine environments."
+  },
+  "ruby-lipped cattleya": {
+    "tips": ["Bright indirect light", "High humidity", "Use orchid bark mix"],
+    "fact": "Cattleya orchids attract specific insect pollinators."
+  },
+  "cape flower": {
+    "tips": ["Dry soil", "Full sunlight", "Protect from frost"],
+    "fact": "Native to South Africa, supports endemic pollinators."
+  },
+  "great masterwort": {
+    "tips": ["Part shade", "Moisture-retentive soil", "Deadhead regularly"],
+    "fact": "Excellent for bees and cottage gardens."
+  },
+  "siam tulip": {
+    "tips": ["Warm climate", "Bright filtered light", "Keep soil moist"],
+    "fact": "Supports insect biodiversity in Southeast Asia."
+  },
+  "lenten rose": {
+    "tips": ["Shade to part sun", "Well-drained soil", "Mulch in winter"],
+    "fact": "One of the first flowers to bloom in spring."
+  },
+  "barbeton daisy": {
+    "tips": ["Full sun", "Water when topsoil dries", "Remove spent blooms"],
+    "fact": "Bright colors attract bees and butterflies."
+  },
+  "daffodil": {
+    "tips": ["Plant in fall", "Sun or partial shade", "Let foliage die naturally"],
+    "fact": "Early bloom provides food for emerging insects."
+  },
+  "sword lily": {
+    "tips": ["Plant corms in spring", "Sunlight needed", "Water regularly"],
+    "fact": "Provides vertical habitat for garden insects."
+  },
+  "poinsettia": {
+    "tips": ["Bright, indirect light", "Keep warm", "Avoid overwatering"],
+    "fact": "Sap can deter some pests; supports urban biodiversity."
+  },
+  "bolero deep blue": {
+    "tips": ["Full sun", "Deadhead to extend blooming", "Water evenly"],
+    "fact": "Vibrant color attracts bees and butterflies."
+  },
+  "wallflower": {
+    "tips": ["Cool weather crop", "Sun or partial shade", "Pinch for fullness"],
+    "fact": "Wallflowers thrive in pollinator-friendly gardens."
+  },
+  "marigold": {
+    "tips": ["Full sun", "Deadhead blooms", "Drought tolerant"],
+    "fact": "Repels nematodes and attracts pollinators."
+  },
+  "buttercup": {
+    "tips": ["Partial shade", "Moist soil", "Protect from heat"],
+    "fact": "Buttercups support wetland pollinators."
+  },
+  "oxeye daisy": {
+    "tips": ["Sun or light shade", "Tolerates poor soil", "Divide clumps in fall"],
+    "fact": "Supports pollinators in wildflower meadows."
+  },
+  "common dandelion": {
+    "tips": ["Thrives in most soils", "Remove flower heads to reduce spread", "Full sun"],
+    "fact": "Vital early pollen source for bees."
+  },
+  "petunia": {
+    "tips": ["Full sun", "Deadhead regularly", "Fertilize weekly"],
+    "fact": "Petunias deter aphids and attract hummingbirds."
+  },
+  "wild pansy": {
+    "tips": ["Cool weather flower", "Sun or partial shade", "Keep soil moist"],
+    "fact": "Supports small bees and butterflies."
+  },
+  "primula": {
+    "tips": ["Partial shade", "Moist soil", "Avoid summer heat"],
+    "fact": "Feeds early-season butterflies."
+  },
+  "sunflower": {
+    "tips": ["Full sun", "Water deeply once a week", "Support tall stems"],
+    "fact": "Tracks sunlight and supports birds and bees."
+  },
+    "pelargonium": {
+    "tips": ["Full sun", "Let soil dry between waterings", "Pinch for bushy growth"],
+    "fact": "Pelargoniums deter some pests and attract butterflies."
+  },
+  "bishop of llandaff": {
+    "tips": ["Full sun", "Rich, well-drained soil", "Support stems"],
+    "fact": "Its red flowers attract bees and butterflies."
+  },
+  "gaura": {
+    "tips": ["Tolerates heat and drought", "Well-drained soil", "Full sun"],
+    "fact": "Long bloom time supports pollinators across seasons."
+  },
+  "geranium": {
+    "tips": ["Water when soil dries", "Sunlight preferred", "Trim leggy stems"],
+    "fact": "Naturally repels mosquitoes and attracts pollinators."
+  },
+  "orange dahlia": {
+    "tips": ["Sun to partial sun", "Water deeply", "Remove spent flowers"],
+    "fact": "Large blooms offer landing platforms for bees."
+  },
+  "pink-yellow dahlia?": {
+    "tips": ["Well-drained soil", "Support tall stems", "Water regularly"],
+    "fact": "Colorful hybrid variety attracts butterflies."
+  },
+  "cautleya spicata": {
+    "tips": ["Part shade", "Moist, fertile soil", "Protect from frost"],
+    "fact": "Ginger family flower attracting forest insects."
+  },
+  "japanese anemone": {
+    "tips": ["Part shade", "Water during dry spells", "Divide every few years"],
+    "fact": "Blooms late into fall, supporting pollinators."
+  },
+  "black-eyed susan": {
+    "tips": ["Full sun", "Drought tolerant", "Deadhead for longer bloom"],
+    "fact": "Attracts butterflies and seed-eating birds."
+  },
+  "silverbush": {
+    "tips": ["Well-drained soil", "Tolerates dry conditions", "Prune to shape"],
+    "fact": "Silvery leaves reflect sunlight and protect small insects."
+  },
+  "californian poppy": {
+    "tips": ["Direct sun", "Minimal watering", "Tolerates poor soil"],
+    "fact": "State flower of California, rich in nectar."
+  },
+  "osteospermum": {
+    "tips": ["Sun to part shade", "Deadhead regularly", "Moderate watering"],
+    "fact": "A colorful daisy relative loved by butterflies."
+  },
+  "spring crocus": {
+    "tips": ["Plant bulbs in fall", "Needs chill period", "Full to partial sun"],
+    "fact": "First sign of spring for pollinators."
+  },
+  "bearded iris": {
+    "tips": ["Full sun", "Divide rhizomes", "Do not bury rhizome too deep"],
+    "fact": "Unique floral structure supports bee navigation."
+  },
+  "windflower": {
+    "tips": ["Moist soil", "Part shade", "Avoid dry conditions"],
+    "fact": "Helps early pollinators in woodland settings."
+  },
+  "tree poppy": {
+    "tips": ["Full sun", "Drought tolerant", "Trim after flowering"],
+    "fact": "Large flowers support solitary bees."
+  },
+  "gazania": {
+    "tips": ["Needs full sun", "Tolerates poor soil", "Minimal water"],
+    "fact": "Drought-tolerant and attracts sun-loving pollinators."
+  },
+  "azalea": {
+    "tips": ["Acidic soil", "Partial shade", "Mulch to keep roots cool"],
+    "fact": "Supports butterflies and hummingbirds."
+  },
+  "water lily": {
+    "tips": ["Still water", "Full sun", "Fertilize during growing season"],
+    "fact": "Essential for pond biodiversity."
+  },
+  "rose": {
+    "tips": ["6+ hours of sun", "Water base only", "Prune after bloom"],
+    "fact": "Supports aphid predators and bees alike."
+  },
+  "thorn apple": {
+    "tips": ["Full sun", "Well-drained soil", "Avoid ingestion"],
+    "fact": "Poisonous plant that supports night-flying moths."
+  },
+  "morning glory": {
+    "tips": ["Needs trellis", "Water moderately", "Sunlight essential"],
+    "fact": "Attracts native bees with early blooms."
+  },
+  "passion flower": {
+    "tips": ["Support vine", "Keep soil moist", "Sun to part shade"],
+    "fact": "Host plant for many butterfly species."
+  },
+  "lotus": {
+    "tips": ["Still water pond", "6+ hours of sun", "Trim dead leaves"],
+    "fact": "Purifies water and supports aquatic ecosystems."
+  },
+  "toad lily": {
+    "tips": ["Shade to part shade", "Moist soil", "Protect from frost"],
+    "fact": "Late blooms attract bees and hoverflies."
+  },
+  "anthurium": {
+    "tips": ["Bright indirect light", "Keep soil moist", "Avoid direct sun"],
+    "fact": "Attracts rainforest insects and purifies air."
+  },
+  "frangipani": {
+    "tips": ["Full sun", "Minimal watering", "Protect from cold"],
+    "fact": "Tropical flower loved by moths and beetles."
+  },
+  "clematis": {
+    "tips": ["Sunny top, shaded base", "Support vine", "Regular watering"],
+    "fact": "Flowers support climbing insects and beetles."
+  },
+  "hibiscus": {
+    "tips": ["Full sun", "Moist soil", "Fertilize often"],
+    "fact": "Vital nectar source for hummingbirds and bees."
+  },
+  "columbine": {
+    "tips": ["Partial shade", "Avoid overwatering", "Self-seeds well"],
+    "fact": "Unique shape attracts hummingbirds."
+  },
+  "desert-rose": {
+    "tips": ["Sandy soil", "Bright sun", "Avoid overwatering"],
+    "fact": "Stores water to survive arid climates."
+  },
+  "tree mallow": {
+    "tips": ["Well-drained soil", "Full sun", "Prune to shape"],
+    "fact": "Mallows provide pollen for native bees."
+  },
+  "magnolia": {
+    "tips": ["Full sun", "Plenty of space", "Prune after flowering"],
+    "fact": "Supports beetles and songbirds with shade."
+  },
+  "cyclamen": {
+    "tips": ["Cool shady spot", "Avoid waterlogging", "Water from bottom"],
+    "fact": "Blooms in winter, supporting cold-season insects."
+  },
+  "watercress": {
+    "tips": ["Grow in water or wet soil", "Partial sun", "Harvest often"],
+    "fact": "Fast-growing green that purifies water and feeds insects."
+  },
+  "canna lily": {
+    "tips": ["Full sun", "Fertile soil", "Regular watering"],
+    "fact": "Large foliage offers shelter to insects."
+  },
+  "hippeastrum": {
+    "tips": ["Plant bulbs halfway out", "Bright light", "Water sparingly at first"],
+    "fact": "Popular holiday bloom that supports indoor pollinators."
+  },
+  "bee balm": {
+    "tips": ["Full sun", "Moist soil", "Deadhead to rebloom"],
+    "fact": "Loved by bees, butterflies, and hummingbirds."
+  },
+  "ball moss": {
+    "tips": ["Indirect light", "Mist regularly", "No soil needed"],
+    "fact": "Air plant that provides micro-habitats."
+  },
+  "foxglove": {
+    "tips": ["Part shade", "Water regularly", "Toxic if ingested"],
+    "fact": "Supports long-tongued bees and moths."
+  },
+  "bougainvillea": {
+    "tips": ["Full sun", "Minimal water", "Use support for vines"],
+    "fact": "Colorful bracts attract pollinators in dry climates."
+  },
+  "camellia": {
+    "tips": ["Acidic soil", "Shade to part sun", "Mulch well"],
+    "fact": "Blooms in winter and supports bees during scarce periods."
+  },
+  "mallow": {
+    "tips": ["Full sun", "Water evenly", "Deadhead to encourage blooms"],
+    "fact": "Supports native bees and pollinating flies."
+  },
+  "mexican petunia": {
+    "tips": ["Tolerates drought", "Full sun", "Cut back to control growth"],
+    "fact": "Spreads easily and attracts butterflies."
+  },
+  "bromelia": {
+    "tips": ["Bright filtered light", "Keep central cup filled", "Avoid overwatering soil"],
+    "fact": "Tropical plant offering refuge to insects and frogs."
+  },
+  "blanket flower": {
+    "tips": ["Full sun", "Deadhead often", "Drought resistant"],
+    "fact": "Bright blooms support bees and beneficial bugs."
+  },
+  "trumpet creeper": {
+    "tips": ["Provide strong support", "Full sun", "Can be invasive"],
+    "fact": "Large flowers attract hummingbirds and bees."
+  },
+  "blackberry lily": {
+    "tips": ["Full sun", "Well-drained soil", "Divide rhizomes"],
+    "fact": "Spotted flowers support bees and late pollinators."
+  }
+}
+
+
