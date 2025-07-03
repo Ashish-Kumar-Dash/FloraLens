@@ -4,6 +4,24 @@
 
 ---
 
+## Project Overview
+
+### The Problem
+
+Many nature enthusiasts, gardeners, and casual explorers struggle to identify wildflowers and understand how to care for them. Traditional plant identification apps often lack contextual insights or location mapping for ecological contribution.
+
+### The Solution
+
+FloraLens leverages a deep learning model fine-tuned on the Oxford 102 Flower Dataset to identify flowers in real-time. It provides care instructions, ecological facts, and community-driven bloom mapping — all in a seamless web app.
+
+### The Impact
+
+- **Democratizing Botany**: Makes plant science accessible to anyone with a smartphone or computer.
+- **Community Collaboration**: Encourages citizen science by allowing users to contribute their flower sightings.
+- **Ecological Awareness**: Promotes understanding of biodiversity and sustainable gardening practices.
+
+---
+
 ## Features
 
 - **AI-Powered Flower Identification**  
@@ -44,16 +62,15 @@
 
 floralens/
 │
-├── app.py # Main Streamlit app
-├── requirements.txt # Python dependencies
-├── flower_model.keras # Trained flower classification model
-├── sightings.csv # Appended sightings data (optional)
-│
+├── app.py — Main Streamlit app
+├── requirements.txt — Python dependencies
+├── flower_model.keras — Trained flower classification model
+├── sightings.csv — Appended sightings data (optional)
 ├── data/
-│ ├── labels.json # Class ID to flower name
-│ └── tips.json # Tips and facts for each flower
-│
-└── README.md # Project documentation
+│   ├── labels.json — Class ID to flower name
+│   └── tips.json — Tips and facts for each flower
+├── Oxford102_Flower_Classifier.ipynb — Jupyter notebook for training dataset
+└── README.md — Project documentation
 
 Built with ❤️ using TensorFlow, Streamlit, and Oxford Flowers 102.
 Crafted to encourage curiosity, conservation, and community.
