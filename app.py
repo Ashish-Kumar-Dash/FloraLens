@@ -71,7 +71,7 @@ uploaded = st.file_uploader("Upload a photo of a spring flower", type=["jpg", "j
 
 if uploaded:
     img = Image.open(uploaded)
-    st.image(img, caption="Your Uploaded Flower", use_column_width=True)
+    st.image(img, caption="Your Uploaded Flower", use_container_width=True)
 
     with st.spinner("Classifying..."):
         flower = classify_image(img)
