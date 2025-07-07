@@ -1,6 +1,5 @@
 # 🌸 FloraLens
 
-Link to Project-https://floralens.streamlit.app/
 **FloraLens** is a smart and intuitive Streamlit app that identifies spring flowers using deep learning, shares personalized care tips, and maps your flower sightings — blending AI and nature into a delightful experience.
 
 ---
